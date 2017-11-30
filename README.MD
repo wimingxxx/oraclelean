@@ -2,7 +2,9 @@
 
 [Oracle学习01——基本概念与安装](blog/01.md)
 
+[Oracle学习02——基本查询](blog/02.md)
 
+[Oracle学习03——条件查询和排序](blog/03.md)
 
 
 
